@@ -1,0 +1,4 @@
+# Requirements for the shifts data analysis code
+openpyxl
+pandas
+scikit-learn
