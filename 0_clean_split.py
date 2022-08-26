@@ -1,5 +1,5 @@
 # Author: Tiago M. de Barros
-# Date:   2022-08-22
+# Date:   2022-08-26
 
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -11,7 +11,7 @@ FILE_INPUT = "data_sample.xlsx"
 FILE_TRAIN = "data_train.csv"
 FILE_TEST  = "data_test.csv"
 
-# Pandas display options
+# Pandas display option
 pd.set_option("display.max_columns", None)
 
 # Set seaborn theme

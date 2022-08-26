@@ -1,4 +1,8 @@
 # Requirements for the shifts data analysis code
+matplotlib
+numpy
 openpyxl
 pandas
 scikit-learn
+seaborn
+SALib
